@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValueConverterDemo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyChangedDemo", "INotifyPropertyChangedDemo\INotifyPropertyChangedDemo.csproj", "{DDAE47A5-467F-4A71-BAA2-774BF08B706E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlBindingDemo", "ControlBindingDemo\ControlBindingDemo.csproj", "{78C50488-223C-45F6-B9DA-1F3B9FB84BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeBindingDemo", "RelativeBindingDemo\RelativeBindingDemo.csproj", "{B80CC1BE-9C19-43E2-96B9-4BA63477AF2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +35,14 @@ Global
 		{DDAE47A5-467F-4A71-BAA2-774BF08B706E}.Debug|x86.Build.0 = Debug|x86
 		{DDAE47A5-467F-4A71-BAA2-774BF08B706E}.Release|x86.ActiveCfg = Release|x86
 		{DDAE47A5-467F-4A71-BAA2-774BF08B706E}.Release|x86.Build.0 = Release|x86
+		{78C50488-223C-45F6-B9DA-1F3B9FB84BC3}.Debug|x86.ActiveCfg = Debug|x86
+		{78C50488-223C-45F6-B9DA-1F3B9FB84BC3}.Debug|x86.Build.0 = Debug|x86
+		{78C50488-223C-45F6-B9DA-1F3B9FB84BC3}.Release|x86.ActiveCfg = Release|x86
+		{78C50488-223C-45F6-B9DA-1F3B9FB84BC3}.Release|x86.Build.0 = Release|x86
+		{B80CC1BE-9C19-43E2-96B9-4BA63477AF2B}.Debug|x86.ActiveCfg = Debug|x86
+		{B80CC1BE-9C19-43E2-96B9-4BA63477AF2B}.Debug|x86.Build.0 = Debug|x86
+		{B80CC1BE-9C19-43E2-96B9-4BA63477AF2B}.Release|x86.ActiveCfg = Release|x86
+		{B80CC1BE-9C19-43E2-96B9-4BA63477AF2B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
