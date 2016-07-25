@@ -1,0 +1,13 @@
+C:\Development\DataBinding\StringFormatDemo\bin\Debug\StringFormatDemo.exe
+C:\Development\DataBinding\StringFormatDemo\bin\Debug\StringFormatDemo.pdb
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\MainWindow.baml
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\App.g.cs
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\StringFormatDemo_MarkupCompile.cache
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\StringFormatDemo.g.resources
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\StringFormatDemo.Properties.Resources.resources
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\StringFormatDemo.exe
+C:\Development\DataBinding\StringFormatDemo\obj\x86\Debug\StringFormatDemo.pdb

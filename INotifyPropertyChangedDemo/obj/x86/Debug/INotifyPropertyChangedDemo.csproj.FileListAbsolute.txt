@@ -1,0 +1,13 @@
+C:\Development\DataBinding\INotifyPropertyChangedDemo\bin\Debug\INotifyPropertyChangedDemo.exe
+C:\Development\DataBinding\INotifyPropertyChangedDemo\bin\Debug\INotifyPropertyChangedDemo.pdb
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\MainWindow.baml
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\App.g.cs
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\INotifyPropertyChangedDemo_MarkupCompile.cache
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\INotifyPropertyChangedDemo.g.resources
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\INotifyPropertyChangedDemo.Properties.Resources.resources
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\INotifyPropertyChangedDemo.exe
+C:\Development\DataBinding\INotifyPropertyChangedDemo\obj\x86\Debug\INotifyPropertyChangedDemo.pdb

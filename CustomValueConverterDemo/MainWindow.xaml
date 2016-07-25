@@ -1,0 +1,20 @@
+﻿<Window x:Class="CustomValueConverterDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:conv="clr-namespace:CustomValueConverterDemo"
+        Title="Custom Value Converter Demo" Height="200" Width="200">
+    <Window.Resources>
+        <conv:FlexibleBooleanToVisibilityConverter x:Key="B2VConverter"/>
+        <conv:InverseBooleanToVisibilityConverter x:Key="InvB2VConverter"/>
+    </Window.Resources>
+    <StackPanel>
+        <CheckBox Name="Circle" IsChecked="True">Show Circle</CheckBox>
+        <Ellipse Width="50" Height="50" Fill="Red"
+                 HorizontalAlignment="Left" Margin="0 10 0 0"
+                 Visibility="{Binding ElementName=Circle, Path=IsChecked,
+            Converter={StaticResource B2VConverter}, ConverterParameter=Visible|Hidden}"/>
+        <Rectangle Width="50" Height="50"
+                   HorizontalAlignment="Left" Fill="Blue" Margin="0 10 0 0"
+                   Visibility="{Binding ElementName=Circle, Path=IsChecked, Converter={StaticResource B2VConverter}, ConverterParameter=Hidden|Visible}"/>
+    </StackPanel>
+</Window>

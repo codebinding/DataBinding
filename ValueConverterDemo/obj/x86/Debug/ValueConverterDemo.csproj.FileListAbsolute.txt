@@ -1,0 +1,13 @@
+C:\Development\DataBinding\ValueConverterDemo\bin\Debug\ValueConverterDemo.exe
+C:\Development\DataBinding\ValueConverterDemo\bin\Debug\ValueConverterDemo.pdb
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\MainWindow.baml
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\App.g.cs
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\ValueConverterDemo_MarkupCompile.cache
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\ValueConverterDemo.g.resources
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\ValueConverterDemo.Properties.Resources.resources
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\ValueConverterDemo.exe
+C:\Development\DataBinding\ValueConverterDemo\obj\x86\Debug\ValueConverterDemo.pdb

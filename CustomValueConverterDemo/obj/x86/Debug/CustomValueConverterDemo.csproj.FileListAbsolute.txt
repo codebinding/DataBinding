@@ -1,0 +1,15 @@
+C:\Development\DataBinding\CustomValueConverterDemo\bin\Debug\CustomValueConverterDemo.exe
+C:\Development\DataBinding\CustomValueConverterDemo\bin\Debug\CustomValueConverterDemo.pdb
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\App.g.cs
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\CustomValueConverterDemo_MarkupCompile.cache
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\CustomValueConverterDemo_MarkupCompile.lref
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\MainWindow.baml
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\CustomValueConverterDemo.g.resources
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\CustomValueConverterDemo.Properties.Resources.resources
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\CustomValueConverterDemo.exe
+C:\Development\DataBinding\CustomValueConverterDemo\obj\x86\Debug\CustomValueConverterDemo.pdb
